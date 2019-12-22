@@ -1,2 +1,3 @@
-# android-file-sync
-sync image to cloud
+# File Manager
+
+Manager your local files and sync to remote.
